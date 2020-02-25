@@ -4,5 +4,6 @@ function openAndRead(filename) {
 //   text = process.argv[2];
 console.log(textfile);
   return textfile;
+}
 
   // https://stackoverflow.com/questions/31746837/reading-uploaded-text-file-contents-in-html
